@@ -2,8 +2,6 @@ lorem hola lorem esto lorem
 
 lorem hola hola hola hola
 
-Experimento 1
-
-Experimento 2
+Master 1
 
 hola mi nombre es manuel
